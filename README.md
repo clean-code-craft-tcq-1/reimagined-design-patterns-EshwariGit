@@ -48,7 +48,9 @@ o	Say for example, a piece of code is written which asks for user inputs, and th
 **•	how the pattern works, what the basic idea of the pattern is**
 o	Interpreter pattern is a solution oriented design which analyzes and provides definite and tested solutions for a problem statement. 
 o	One can define the rule and implement it as interpreter and use it in the software.
-•	what the main advantage and what the main disadvantage is of using this pattern
+
+
+**•	what the main advantage and what the main disadvantage is of using this pattern**
 o	Easy to create
 o	Difficult to maintain every extensions made
 
