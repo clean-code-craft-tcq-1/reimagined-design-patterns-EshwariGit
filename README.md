@@ -11,6 +11,9 @@ Give a summary description of Four design patterns that you choose from the foll
 
 
 **Assement update!**
+
+
+
 **Decorator**
 **•	what kind of problem(s) you can solve with that pattern and when you use it, maybe with a short example**
 o	Decorator design pattern tends to add more dynamics to the feature implementation.
@@ -23,6 +26,8 @@ o	Advantage : Its Dynamic and pretty cool to see since its result oriented
 o	Disadvantage: Complex coding!
 **•	Write a short summary :**
 o	As a developer/Tester I use Decorator to enhance dynamic feature to my work product to improve the user experience. This pattern shall be used to improve the work product behavior with your coding skills and approach
+
+
 
 **Interpreter**
 **•	what kind of problem(s) you can solve with that pattern and when you use it, maybe with a short example**
@@ -38,6 +43,8 @@ o	Difficult to maintain every extensions made
 o	The work product shall use the interpreter if a specific feature is requested by the customer for code optimizations, compiler optimizations etc.,
 o	Specific Language conversion, ASCII to binary conversion, in such use case also the interpreter shall be used.
 
+
+
 **Memento pattern**
 **•	what kind of problem(s) you can solve with that pattern and when you use it, maybe with a short example**
 o	Memento Design pattern is used when complex result oriented product is built.
@@ -49,9 +56,10 @@ PS: I am explaining these concepts completely as a leman example without technic
 **•	what the main advantage and what the main disadvantage is of using this pattern**
 o	Provides flexibility to the coder
 o	Its slow, time consuming
-
 **•	Write a short summary :**
 o	One shall use the Memento pattern when complex algorithm has to be met. When Many contributors to the feature this shall be implemented. History graph usage and rollback feature are incorporated in this pattern!
+
+
 
 **Proxy**
 **•	what kind of problem(s) you can solve with that pattern and when you use it, maybe with a short example**
